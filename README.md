@@ -11,10 +11,9 @@ Smooth OpenCV-based UI
 Fun and contactless gaming experience
 
 Tech Stack:
-
 Python
 OpenCV
 NumPy
 Machine Learning / Computer Vision
 
-Stay tuned for the launch! 🚀
+Stay tuned for the launch! 🚀 - will be soon here - the computer vision stan
