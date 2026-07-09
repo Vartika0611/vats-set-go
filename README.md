@@ -1,5 +1,5 @@
-# vats-sense-RPS
-Introducing vats-sense-RPS — a gesture-controlled Rock-Paper-Scissors game built using Python, OpenCV, and Machine Learning.
+# V'Sense-RPS
+Introducing V'Sense-RPS — a gesture-controlled Rock-Paper-Scissors game built using Python, OpenCV, and Machine Learning.
 The system detects hand gestures in real time and lets users play the classic game without touching a keyboard or mouse. 🎮✋
 
 Features planned:
