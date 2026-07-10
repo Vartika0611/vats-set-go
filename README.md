@@ -15,4 +15,5 @@ Tech Stack:
 3.NumPy
 4.Machine Learning / Computer Vision
 
+THE MODEL IS A DEMONSTRATION OF GESTURE PLAY.
 Stay tuned for the launch! 🚀 - will be soon here - the computer vision stan
