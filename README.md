@@ -16,4 +16,5 @@ Tech Stack:
 4.Machine Learning / Computer Vision
 
 THE MODEL IS A DEMONSTRATION OF GESTURE PLAY.
-Stay tuned for the launch! 🚀 - will be soon here - the computer vision stan
+Stay tuned for the launch! 🚀 - will be soon here - the computer vision standard applications.
+
