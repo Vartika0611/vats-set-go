@@ -7,7 +7,7 @@ Real-time hand gesture recognition
 Rock, Paper, Scissors prediction using ML
 Interactive gameplay with webcam support
 Smooth OpenCV-based UI
-Fun and contactless gaming experience
+Fun and contactless gaming experience....
 
 Tech Stack:
 1.Python
